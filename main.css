@@ -1,0 +1,106 @@
+.container,
+.page-footer p {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.page-header {
+  background: yellow;
+}
+
+.page-nav,
+.aside-nav {
+  list-style: none;
+  padding: 10px;
+}
+
+.page-nav {
+  text-align: right;
+  margin-bottom: 1px;
+}
+
+.page-nav li {
+  display: inline-block;
+}
+
+.page-nav a {
+  display: block;
+  padding: 0 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.page-nav a:hover {
+  color: gold;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.main {
+  margin-right: -10px;
+}
+
+.section,
+.aside {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 10px;
+}
+
+.section {
+  width: 300px;
+}
+
+.aside {
+  background: darkgoldenrod;
+  width: 280px;
+}
+
+.aside-nav li {
+  padding: 5px 0;
+  border-bottom: 1px solid black;
+}
+
+.aside-nav a {
+  display: block;
+  color: black;
+  text-decoration: none;
+}
+
+.aside-nav a:hover {
+  color: white;
+}
+
+.section-img {
+  width: 300px;
+  height: 200px;
+  color: white;
+  text-align: center;
+  line-height: 200px;
+  font-size: 22px;
+}
+
+.red {
+  background-color: red;
+}
+
+.gray {
+  background-color: darkslategray;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.green {
+  background-color: green;
+}
+
+.page-footer {
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}/*# sourceMappingURL=main.css.map */
